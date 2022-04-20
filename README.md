@@ -26,7 +26,7 @@ vine_table schema
 #
 ![v_id](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/vine_schema.PNG)
 #
-### The datasets were transformed into 4 datframes shown below
+### The datasets were transformed into 4 DataFrames shown below
 #
 Customers Dataframe
 #
@@ -43,5 +43,23 @@ Review ID Dataframe
 Vine Dataframe
 #
 ![v_df](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/vinedf.PNG)
-
+#
+### DataFrames were loaded into Postgres pgAdmin
+#
+Customers Table in Postgres DB
+#
+![c_db](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/customers.PNG)
+#
+Products Table in Postgres DB
+#
+![p_db](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/products.PNG)
+#
+Review ID Table in Postgres DB
+#
+![r_db](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/review_id.PNG)
+#
+Vine Table in Postgres DB
+#
+![v_db](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/vine.PNG)
+#
 

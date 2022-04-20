@@ -62,4 +62,28 @@ Vine Table in Postgres DB
 #
 ![v_db](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/vine.PNG)
 #
-
+### Determine Bias of Vine Reviews
+#
+Using PySpark in Google Colab, the data was filtered to create a new DataFrame comprised of reviews
+with a total count of greater than or equal to 20 votes in order to select reviews more likely to be helpful and to avoid division by zero errors in future calculations.
+#
+Total Votes Greater than or Equal to 20 was stored in total_votes_df.
+#
+![totvotes20](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/totalvotes.PNG)
+#
+The data was further filtered into a new DataFrame shere the number of helpful votes divided by the total number of votes was great than or equal to 50% called percent_votes_df.
+#
+![percent](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/percent.PNG)
+#
+A new dataframe that retrieved a review that was part of the Vine program (paid) was stored in paid_df.
+#
+![percent](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/paid.PNG)
+#
+A new dataframe that retrieved a review that was not part of the Vine program (unpaid) was stored in paid_df.
+#
+![percent](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/nonpaid.PNG)
+#
+The total number of reviews, the number of 5 star reviews and the % of 5-star reviews for the two types of reviews (paid and unpaid) were filtered into ratings_total_df
+#
+![percent](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/reviewratings.PNG)
+#

@@ -123,7 +123,7 @@ What percentage and number of reviews were made by Vine vs. Non-Vine reviewers?
 How many Vine reviews were 5 stars? 
 * 454 out of 1,080 
 #
-How many non-Vine reviews were 5 stars?
+How many Non-Vine reviews were 5 stars?
 * 23,043 out of 49,673 
 #
 What percentage of Vine reviews were 5 stars? 

@@ -16,7 +16,7 @@ review_id_table schema
 #
 customers_table schema
 #
-![c_id](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/customer_schema.PNG)
+![c_id](https://github.com/jcsargis00/Amazon_Vine_Analysis/blob/main/images/customers_schema.PNG)
 #
 products_table schema
 #

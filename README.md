@@ -111,7 +111,7 @@ The total number of reviews, the number of 5 star reviews and the % of 5-star re
 ### Results: 
 The dataset had over 3 million reviews recorded. In order to focus on reviews that would be considered more likely to be helpful, first the data was filtered.
 Filtering:
-* Count of Total Votes equal or greater than 20.
+* Count of Total Votes greater than or equal to 20.
 * Percent of Helpful Votes to Total Votes greater than or equal to 50%.
 #
 Next, data was reviewed for Vine and Non-Vine reviewers.

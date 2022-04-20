@@ -1,6 +1,6 @@
 ## Amazon_Vine_Analysis
 #
-ETL on Amazon Product Reviews
+Using ETL to analyze Amazon Product Reviews
 #
 Using the AWS RDS database with tables in Postgres pgAdmin, the electronics dataset from Amazon reviews was extracted into a dataframe using Google Colab and PySpark.  The data matched the
 schema from SQL_table_schema, creating 4 tables in Postgres.

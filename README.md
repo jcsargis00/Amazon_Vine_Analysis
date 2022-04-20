@@ -133,4 +133,4 @@ What percentage of non-Vine reviews were 5 stars?
 * 46.3893% 
 
 ### Summary:
-The results show the percentage of Vine reviewers and the percentage of Non-Vine reviewers was very close (42% vs. 46.4%). The data finding imply the Vine reviewers are not showing bias for this dataset.  This finding only includes filtered data, with criteria of < or = 20 helpful votes, and only 5 star votes.  The analysis could be rerun for all data, after excluding zero data.  It would also be advantageous to see the analysis on several other datasets and compare the results before reaching a conclusion. 
+The results show the percentage of Vine reviewers and the percentage of Non-Vine reviewers was very close (42% vs. 46%). The data finding implies the Vine reviewers are not showing bias for this dataset.  This finding only includes filtered data, with criteria of greater than or equal to 20 helpful votes, and only 5 star votes.  The analysis could be rerun for all data, after excluding zero data.  It would also be advantageous to see the analysis on several other datasets and compare the results before reaching a conclusion. 
